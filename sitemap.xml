@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://amandacai12.github.io/amandacai-portfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://amandacai12.github.io/amandacai-portfolio/</loc>
+</url>
+<url>
+<loc>https://amandacai12.github.io/amandacai-portfolio/about-me.html</loc>
+<lastmod>2024-01-31T17:58:39-08:00</lastmod>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/2/IMG_3345-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://amandacai12.github.io/amandacai-portfolio/welcome-to-my-portfolio.html</loc>
+<lastmod>2024-01-31T21:54:49-08:00</lastmod>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/1/hal-gatewood-tZc3vjPCk-Q-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/1/gallery/Cai-Amanda-Portfolio-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/1/gallery/bp-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/1/gallery/Cai-Amanda-Portfolio-1-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://amandacai12.github.io/amandacai-portfolio/media/posts/1/gallery/Cai-Amanda-Portfolio-2-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
